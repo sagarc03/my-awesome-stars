@@ -312,6 +312,7 @@
 
 ## golang 
 
+- [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -603,6 +604,7 @@
 
 ## sql 
 
+- [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [doableware/djongo](https://github.com/doableware/djongo) - Django and MongoDB database connector
 
 ## svelte 
