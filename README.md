@@ -132,6 +132,7 @@
 
 ## Others 
 
+- [rootusercop/Free-DevOps-Books-1](https://github.com/rootusercop/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
 - [jonathantower/distributed-monolith](https://github.com/jonathantower/distributed-monolith) - 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
