@@ -37,6 +37,7 @@
 - [elixir](#elixir)
 - [emacs](#emacs)
 - [emoji](#emoji)
+- [english](#english)
 - [es6](#es6)
 - [eslint](#eslint)
 - [finance](#finance)
@@ -288,6 +289,10 @@
 ## emoji 
 
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+
+## english 
+
+- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 
 ## es6 
 
