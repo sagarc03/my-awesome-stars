@@ -14,7 +14,6 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [aws](#aws)
-- [backend](#backend)
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [c](#c)
@@ -178,12 +177,6 @@
 ## aws 
 
 - [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
-
-## backend 
-
-- [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
 ## bash 
 
