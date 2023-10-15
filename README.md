@@ -30,6 +30,7 @@
 
 ## C 
 
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
