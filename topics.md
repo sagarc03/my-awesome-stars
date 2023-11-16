@@ -135,7 +135,7 @@
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## api 
 
@@ -465,7 +465,7 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## js 
 
@@ -639,7 +639,7 @@
 
 ## pwa 
 
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## python 
 
@@ -763,7 +763,7 @@
 
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## vim 
 
@@ -781,7 +781,7 @@
 ## web 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## webapp 
 
