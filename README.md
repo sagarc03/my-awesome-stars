@@ -219,7 +219,7 @@
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## Vim Script 
 
