@@ -610,6 +610,7 @@
 
 ## others 
 
+- [developersIndia/saadhan](https://github.com/developersIndia/saadhan) - 🔖 saadhan is a resources hub for the developersIndia community.
 - [gameprogcpp/code](https://github.com/gameprogcpp/code) - Game Programming in C++ Code
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
