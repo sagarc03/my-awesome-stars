@@ -77,6 +77,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [mongodb](#mongodb)
+- [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -571,6 +572,10 @@
 ## mongodb 
 
 - [doableware/djongo](https://github.com/doableware/djongo) - Django and MongoDB database connector
+
+## natural-language-processing 
+
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
 ## neovim 
 
