@@ -636,6 +636,7 @@
 
 ## others 
 
+- [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
 - [developersIndia/saadhan](https://github.com/developersIndia/saadhan) - 🔖 saadhan is a resources hub for the developersIndia community.
 - [gameprogcpp/code](https://github.com/gameprogcpp/code) - Game Programming in C++ Code
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
