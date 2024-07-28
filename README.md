@@ -151,6 +151,7 @@
 
 ## Others 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources
 - [jonathantower/distributed-monolith](https://github.com/jonathantower/distributed-monolith) - 
