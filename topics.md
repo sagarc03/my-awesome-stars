@@ -678,7 +678,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
-- [developersIndia/saadhan](https://github.com/developersIndia/saadhan) - 🔖 saadhan is a resources hub for the developersIndia community.
+- [developersIndia/saadhan](https://github.com/developersIndia/saadhan) - 🔖 saadhan is a resources hub for the r/developersIndia community.
 - [gameprogcpp/code](https://github.com/gameprogcpp/code) - Game Programming in C++ Code
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
