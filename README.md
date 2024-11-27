@@ -28,6 +28,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -243,6 +244,10 @@
 ## Svelte 
 
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
+
+## Swift 
+
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 
 ## TeX 
 
