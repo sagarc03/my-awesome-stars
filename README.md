@@ -42,7 +42,6 @@
 
 ## C 
 
-- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -56,6 +55,7 @@
 ## C++ 
 
 - [gameprogcpp/code](https://github.com/gameprogcpp/code) - Game Programming in C++ Code
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [akshitagit/CPP](https://github.com/akshitagit/CPP) - Repository for C++/C codes and algos.
 - [ydxt25/QuantSystem](https://github.com/ydxt25/QuantSystem) - A C++ Quantitative Trading System
