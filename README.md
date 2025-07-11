@@ -271,6 +271,7 @@
 
 ## TypeScript 
 
+- [Nic13Gamer/better-upload](https://github.com/Nic13Gamer/better-upload) - Simple file uploads for React.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
