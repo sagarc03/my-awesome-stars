@@ -150,7 +150,6 @@
 - [website](#website)
 - [windows](#windows)
 - [zig](#zig)
-- [zsh](#zsh)
 
 ## 3d 
 
@@ -821,6 +820,7 @@
 - [astaxie/go-system-programming](https://github.com/astaxie/go-system-programming) - Go System Programming
 - [uhub/awesome-go](https://github.com/uhub/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - 
+- [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [cyanly/gotrade](https://github.com/cyanly/gotrade) - A proof of concept of an electronic trading system written in Golang
 - [ydxt25/QuantSystem](https://github.com/ydxt25/QuantSystem) - A C++ Quantitative Trading System
 - [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
@@ -1082,11 +1082,6 @@
 ## zig 
 
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-
-## zsh 
-
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 
 
 ## License
