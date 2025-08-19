@@ -134,6 +134,7 @@
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [svelte](#svelte)
+- [swift](#swift)
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -999,6 +1000,10 @@
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+
+## swift 
+
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 
 ## tailwindcss 
 
