@@ -140,7 +140,6 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
-- [trading](#trading)
 - [typescript](#typescript)
 - [ui](#ui)
 - [vim](#vim)
@@ -325,7 +324,6 @@
 ## cryptocurrency 
 
 - [sdcoffey/techan](https://github.com/sdcoffey/techan) - Technical Analysis Library for Golang
-- [alpacahq/marketstore](https://github.com/alpacahq/marketstore) - DataFrame Server for Financial Timeseries Data
 
 ## cryptography 
 
@@ -351,7 +349,6 @@
 
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
-- [alpacahq/marketstore](https://github.com/alpacahq/marketstore) - DataFrame Server for Financial Timeseries Data
 
 ## deep-learning 
 
@@ -542,7 +539,6 @@
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
 - [orijtech/structslop](https://github.com/orijtech/structslop) - structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.
 - [sdcoffey/techan](https://github.com/sdcoffey/techan) - Technical Analysis Library for Golang
-- [alpacahq/marketstore](https://github.com/alpacahq/marketstore) - DataFrame Server for Financial Timeseries Data
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
@@ -1033,10 +1029,6 @@
 
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
-
-## trading 
-
-- [alpacahq/marketstore](https://github.com/alpacahq/marketstore) - DataFrame Server for Financial Timeseries Data
 
 ## typescript 
 
