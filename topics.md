@@ -881,7 +881,7 @@
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
 - [noreading/bootstrap5-webpack-boilerplate](https://github.com/noreading/bootstrap5-webpack-boilerplate) - A Bootstrap 5 boilerplate, using Webpack 5, Babel, SCSS, etc.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [thoas/go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [astaxie/go-system-programming](https://github.com/astaxie/go-system-programming) - Go System Programming
