@@ -77,6 +77,7 @@
 
 ## Go 
 
+- [sagarc03/stowry](https://github.com/sagarc03/stowry) - Lightweight object storage with AWS Signature V4 authentication support and pluggable  metadata backends (SQLite, PostgreSQL)
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) - Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
