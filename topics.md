@@ -326,6 +326,7 @@
 
 ## cli 
 
+- [sagarc03/stowry](https://github.com/sagarc03/stowry) - Lightweight object storage with AWS Signature V4 authentication support and pluggable  metadata backends (SQLite, PostgreSQL)
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -442,6 +443,7 @@
 
 ## docker 
 
+- [sagarc03/stowry](https://github.com/sagarc03/stowry) - Lightweight object storage with AWS Signature V4 authentication support and pluggable  metadata backends (SQLite, PostgreSQL)
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) - Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
@@ -559,6 +561,7 @@
 
 ## go 
 
+- [sagarc03/stowry](https://github.com/sagarc03/stowry) - Lightweight object storage with AWS Signature V4 authentication support and pluggable  metadata backends (SQLite, PostgreSQL)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
@@ -585,6 +588,7 @@
 
 ## golang 
 
+- [sagarc03/stowry](https://github.com/sagarc03/stowry) - Lightweight object storage with AWS Signature V4 authentication support and pluggable  metadata backends (SQLite, PostgreSQL)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
@@ -919,6 +923,7 @@
 
 ## postgresql 
 
+- [sagarc03/stowry](https://github.com/sagarc03/stowry) - Lightweight object storage with AWS Signature V4 authentication support and pluggable  metadata backends (SQLite, PostgreSQL)
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
@@ -1074,6 +1079,7 @@
 
 ## self-hosted 
 
+- [sagarc03/stowry](https://github.com/sagarc03/stowry) - Lightweight object storage with AWS Signature V4 authentication support and pluggable  metadata backends (SQLite, PostgreSQL)
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) - Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -1097,6 +1103,7 @@
 
 ## sqlite 
 
+- [sagarc03/stowry](https://github.com/sagarc03/stowry) - Lightweight object storage with AWS Signature V4 authentication support and pluggable  metadata backends (SQLite, PostgreSQL)
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 
 ## svelte 
