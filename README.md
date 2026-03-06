@@ -217,7 +217,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
