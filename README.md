@@ -271,6 +271,7 @@
 
 ## TypeScript 
 
+- [rpuls/payload-3-boilerplate](https://github.com/rpuls/payload-3-boilerplate) - Payload CMS V3 Boilerplate for Railway, by FUNKYTON
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [Nic13Gamer/better-upload](https://github.com/Nic13Gamer/better-upload) - Simple and easy file uploads for React. Upload directly to any S3-compatible service with minimal setup.
