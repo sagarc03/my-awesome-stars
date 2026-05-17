@@ -32,6 +32,7 @@
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
+- [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
 - [coding](#coding)
@@ -356,6 +357,10 @@
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+## cms 
+
+- [rpuls/payload-3-boilerplate](https://github.com/rpuls/payload-3-boilerplate) - Payload CMS V3 Boilerplate for Railway, by FUNKYTON
 
 ## code 
 
