@@ -262,7 +262,7 @@
 
 ## Shell 
 
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 
