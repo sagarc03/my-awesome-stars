@@ -628,6 +628,7 @@
 
 ## go 
 
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
 - [sagarc03/stowry](https://github.com/sagarc03/stowry) - Lightweight object storage with AWS Signature V4 authentication support and pluggable  metadata backends (SQLite, PostgreSQL)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
@@ -655,6 +656,7 @@
 
 ## golang 
 
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
 - [sagarc03/stowry](https://github.com/sagarc03/stowry) - Lightweight object storage with AWS Signature V4 authentication support and pluggable  metadata backends (SQLite, PostgreSQL)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
