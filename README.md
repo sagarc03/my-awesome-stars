@@ -9,6 +9,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CSS](#css)
 - [Clojure](#clojure)
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
@@ -29,7 +30,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -59,6 +59,10 @@
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [akshitagit/CPP](https://github.com/akshitagit/CPP) - Repository for C++/C codes and algos.
 - [ydxt25/QuantSystem](https://github.com/ydxt25/QuantSystem) - A C++ Quantitative Trading System
+
+## CSS 
+
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
 ## Clojure 
 
@@ -266,10 +270,6 @@
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
-
-## Svelte 
-
-- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
 ## Swift 
 
