@@ -110,7 +110,7 @@
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
+- [prest/prest](https://github.com/prest/prest) - Instant REST and MCP APIs for PostgreSQL and MySQL 8, on existing or new databases. CRUD, custom SQL routes, auth and ACL without writing a backend. Low-code, ⚡ realtime, high-performance. Native MySQ
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [thoas/go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [orijtech/structslop](https://github.com/orijtech/structslop) - structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.
